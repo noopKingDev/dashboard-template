@@ -5,9 +5,7 @@
     "author": "",
     "private": true,
     "scripts": {
-        "build-api": "cd api/core && node index",
-        "build-front": "cd front && next build && next export",
-        "build": "cd api/core && npx tsc && cd ../.. && cd front && next build && next export"
+        "build-api": "cd api/core && node index"
     },
     "workspaces": [
         "./front",
