@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "aws-lambda": "^1.0.7",
-    "lambda-api": "^0.11.1"
+    "lambda-api": "^0.11.1",
+    "request": "^2.18.2"
   },
  
   "devDependencies": {
