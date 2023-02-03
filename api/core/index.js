@@ -1,4 +1,4 @@
-const api = require("lambda-api")
+const api = require("lambda-api")()
 
 api.get("/", (req, res) => {
     return {
