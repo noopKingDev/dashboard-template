@@ -2,7 +2,7 @@
   "name": "dashboard-api",
   "version": "1.0.0",
   "scripts": {
-    "build": "npx tsc"
+    "build": "node index"
   },
   "dependencies": {
     "@prisma/client": "^4.2.1",
