@@ -1,6 +1,6 @@
 {
   "name": "dashboard-api",
-  "version": "1.0.0"
+  "version": "1.0.0",
   "dependencies": {
     "aws-lambda": "^1.0.7",
     "lambda-api": "^0.11.1"
